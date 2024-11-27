@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
+    "dev": "bun --watch src/main.ts",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "start": "bun ./src/main.ts",

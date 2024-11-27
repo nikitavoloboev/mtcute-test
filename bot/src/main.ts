@@ -10,10 +10,10 @@ const tg = new TelegramClient({
 })
 
 const dp = Dispatcher.for(tg)
-
 dp.onNewMessage(filters.start, async (msg) => {
-  await msg.answerText("Hello, world!")
+  await msg.answerText("Hello")
 })
 
 const user = await tg.start({ botToken: env.BOT_TOKEN })
 console.log("Logged in as", user.username)
+console.log("--")
