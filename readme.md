@@ -1,3 +1,3 @@
-# [mtcute](https://mtcute.dev/) test
+# mtcute
 
-See [bot](bot) for details.
+See [bot](bot) for how to run [mtcute](https://mtcute.dev) bot.
