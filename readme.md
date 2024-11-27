@@ -1,3 +1,3 @@
-# Testing [mtcute](https://mtcute.dev/)
+# [mtcute](https://mtcute.dev/) test
 
-See [bot/readme.md](bot/readme.md).
+See [bot](bot) for details.
